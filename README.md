@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mithul-Ram
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Python
+- 📫 Reach me @ mithulram9@gmail.com
